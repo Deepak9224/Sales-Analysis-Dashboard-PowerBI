@@ -64,3 +64,20 @@ The dashboard provides insights into:
 - Top N Analysis
 - Time Series Analysis
 - Business Intelligence Reporting
+
+## Dashboard Preview
+
+### Executive Summary
+<img width="1920" height="1080" alt="Executive Summary" src="https://github.com/user-attachments/assets/eb49330d-ecb6-4871-9e68-7462d1e76e64" />
+
+
+### Regional Analysis
+<img width="1920" height="1080" alt="Regional Analysis" src="https://github.com/user-attachments/assets/9cad6090-a763-4ed8-8b41-dd2293990d7a" />
+
+
+### Product Analysis
+<img width="1920" height="1080" alt="Product Analysis" src="https://github.com/user-attachments/assets/a3d109be-5513-47e1-abd3-941901957e3a" />
+
+### Time Analysis
+<img width="1920" height="1080" alt="Time Series Analysis" src="https://github.com/user-attachments/assets/a0d87ee6-cd68-4d7d-ab78-1f11650eb44b" />
+
